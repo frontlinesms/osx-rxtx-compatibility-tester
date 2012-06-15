@@ -1,0 +1,13 @@
+# Maven generated:
+target/
+
+# Eclipse generated:
+.classpath
+.project
+.settings/
+
+# Redcar Editor project files:
+.redcar
+
+# vi temp files
+*.swp

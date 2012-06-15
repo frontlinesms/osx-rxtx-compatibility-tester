@@ -1,0 +1,14 @@
+FrontlineSMS v2 serial port debugging
+------------------------------------
+
+This script will send an email to FrontlineSMS with the following information:
+- Some basic Java VM information, such as the version and architecture
+- Some information about your computer, including the architecture, OS name & version
+- Your logged in user account name (no other personal information will be sent)
+
+It will also attempt to connect to serial ports on your computer using various methods, but will not transmit or receive data on any.
+
+The entire process will usually take 1 or 2 minutes to complete.
+
+Thank you for your help in making FrontlineSMS work across as many platforms as possible.
+
